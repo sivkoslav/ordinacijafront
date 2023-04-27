@@ -15,39 +15,40 @@ export default function Footer() {
                                 <li>21000 Novi Sad</li>
                                 <li>021 999 999</li>
                                 <li>061 999 999</li>
+                                <li>ordinacija@gmail.com</li>
                             </ul>
                         </div>
 
                         {/*column 2 */}
                         <div className="col-md-3 col-sm-6">
-                            <h4>Lorem ipsum</h4>
+                            <h4>Usluge</h4>
                             <ul className="list-unstyled">
-                                <li><a href="/">lorem ipsum</a></li>
-                                <li><a href="/">lorem ipsum</a></li>
-                                <li><a href="/">lorem ipsum</a></li>
-                                <li><a href="/">lorem ipsum</a></li>
+                                <li><a href="/">Preventivna i decija stomatologija</a></li>
+                                <li><a href="/">Konzervativna terapija</a></li>
+                                <li><a href="/">Ortodoncija</a></li>
+                                <li><a href="/">Oralna hirurgija</a></li>
                             </ul>
                         </div>
 
                         {/*column 3 */}
                         <div className="col-md-3 col-sm-6">
-                            <h4>Lorem ipsum</h4>
+                            <h4>Korisni linkovi</h4>
                             <ul className="list-unstyled">
-                            <li><a href="/">lorem ipsum</a></li>
-                            <li><a href="/">lorem ipsum</a></li>
-                            <li><a href="/">lorem ipsum</a></li>
-                            <li><a href="/">lorem ipsum</a></li>
+                                <li><a href="/">Pocetna</a></li>
+                                <li><a href="/">Usluge</a></li>
+                                <li><a href="/">Kontakt</a></li>
+                                <li><a href="/">Cenovnik</a></li>
                             </ul>
                         </div>
 
                         {/*column 4 */}
                         <div className="col-md-3 col-sm-6">
-                            <h4>Lorem ipsum</h4>
+                            <h4>Zaprati nas</h4>
                             <ul className="list-unstyled">
-                            <li><a href="/">lorem ipsum</a></li>
-                            <li><a href="/">lorem ipsum</a></li>
-                            <li><a href="/">lorem ipsum</a></li>
-                            <li><a href="/">lorem ipsum</a></li>
+                                <li><a href="#"><i className="fa fa-facebook"></i></a></li>
+                                <li><a href="/">lorem ipsum</a></li>
+                                <li><a href="/">lorem ipsum</a></li>
+                                <li><a href="/">lorem ipsum</a></li>
                             </ul>
                         </div>
 

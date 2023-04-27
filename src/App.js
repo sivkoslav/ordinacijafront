@@ -14,8 +14,6 @@ function App() {
     <div className="App">
         <Router>
           <MiniNavbar />
-          
-          
           <Routes>
             
 
@@ -27,12 +25,6 @@ function App() {
 
           </Routes>
           <Footer />
-          
-
-
-
-
-
         </Router>
     </div>
   );
