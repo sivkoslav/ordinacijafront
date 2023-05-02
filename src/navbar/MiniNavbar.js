@@ -24,8 +24,11 @@ export default function MiniNavbar() {
                             <li className="nav-item">
                                 <Link className="nav-link" to={"/Zakazivanje"}>Zakazi</Link>
                             </li>
-                            <li className='"nav-item'>
+                            <li className="nav-item">
                                 <Link className="nav-link" to={"/Cenovnik"}>Cenovnik</Link>
+                            </li>
+                            <li className="nav-item">
+                                <Link className="nav-link" to={"/Identifikacija"}>Identifikacija</Link>
                             </li>
 
                         </ul>

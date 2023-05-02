@@ -7,6 +7,7 @@ import MiniNavbar from './navbar/MiniNavbar';
 import Zakazivanje from './pages/Zakazivanje';
 import Cenovnik from './pages/Cenovnik';
 import Footer from './navbar/Footer';
+import Identifikacija from './pages/Identifikacija';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
             <Route exact path="/" element={<Home />} />
             <Route exact path="/Zakazivanje" element={<Zakazivanje />} />
             <Route exact path="/Cenovnik" element={<Cenovnik />} />
+            <Route exact path="/Identifikacija" element={<Identifikacija />} />
             
 
 
