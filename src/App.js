@@ -8,6 +8,10 @@ import Zakazivanje from './pages/Zakazivanje';
 import Cenovnik from './pages/Cenovnik';
 import Footer from './navbar/Footer';
 import Identifikacija from './pages/Identifikacija';
+import PacijentTermini from './pages/PacijentTermini';
+import ZubarTermini from './pages/ZubarTermini';
+
+
 
 
 function App() {
@@ -22,6 +26,8 @@ function App() {
             <Route exact path="/Zakazivanje" element={<Zakazivanje />} />
             <Route exact path="/Cenovnik" element={<Cenovnik />} />
             <Route exact path="/Identifikacija" element={<Identifikacija />} />
+            <Route exact path="/PacijentTermini" element={<PacijentTermini />} />
+            <Route exact path="/ZubarTermini" element={<ZubarTermini />} />
             
 
 
